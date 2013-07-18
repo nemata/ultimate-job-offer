@@ -19,7 +19,7 @@ I'm delighted I stumbled upon your very interesting profile since you're the per
  * You require no more than two hours of sleep each night without it impacting your good mood and you can code for up to 1 week without a break.
  * You demonstrate high involvement in the Open Source community (nit picking about typos, changing code to comma-first back and forth, sending pull requests with your local config, opening IE6 issues, etc)
  * There are new challenges and responsibilities everyday!
-
+ *  When you commit, it's not just a message
 
 #### Some bulletpoints about the company
 > + We are the leading international leader
