@@ -1,6 +1,7 @@
-Dear Sir or Madam,
+Hi,
 
-I'm delighted I stumbled upon your very interesting profile since you're the perfect fit for an open position at a really interesting company at the armpit of the world.
+apologies for the unsolicited message but I stumbled upon your very interesting profile and thought we should chat:
+You're the perfect fit for an open position at a really interesting company at the armpit of the world.
 
 #### Requirements & Responsibilities
  * You will design and develop awesome magic software solutions
@@ -18,8 +19,9 @@ I'm delighted I stumbled upon your very interesting profile since you're the per
  * You like to directly impact the experience for millions of consumers around the world
  * You require no more than two hours of sleep each night without it impacting your good mood and you can code for up to 1 week without a break.
  * You demonstrate high involvement in the Open Source community (nit picking about typos, changing code to comma-first back and forth, sending pull requests with your local config, opening IE6 issues, etc)
+ * When you commit, it's not just a message
  * There are new challenges and responsibilities everyday!
- *  When you commit, it's not just a message
+
 
 #### Some bulletpoints about the company
 > + We are the leading international leader
@@ -34,15 +36,7 @@ I'm delighted I stumbled upon your very interesting profile since you're the per
 > + Our employees are allowed to work from wherever they are, as long as it's one of our offices
 > + We love open-source technologies as long as it's free
 
-
-You are interested? Please make sure the following documents are attached (for administrational reasons we can only accept postal applications):
- * Your letter of motivation
- * Your curriculum vitae
- * Your criminal record certificate
- * Your credit report
- * A recommondation by your kindergarden teacher
-
-We are looking forward to your application!
+Please reply back with your CV and I'll tell you more about the role, and also send it to gazillions of other companies.
 
 Best regards
 John Foe
