@@ -33,6 +33,7 @@ You're the perfect fit for an open position at a really interesting company at t
 > + We are doing innovative business: Like Facebook for AirBNB with soundcloud
 > + We offer a competitive base salary plus an amazing bonus plan, profit sharing and award program 
 > + We also offer outstanding perks, award programs, bonuses and so much more! (e.g. free soda, free Club Mate, free hugs, free WiFi, unlimited power outlets, private airport – to be fully opened end of 2014)
+> + For motivated employees the company offers a remunerative Share Option Plan!
 > + Our employees are allowed to work from wherever they are, as long as it's one of our offices
 > + We love open-source technologies as long as it's free
 
