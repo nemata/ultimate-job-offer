@@ -20,6 +20,7 @@ You're the perfect fit for an open position at a really interesting company at t
  * You require no more than two hours of sleep each night without it impacting your good mood and you can code for up to 1 week without a break.
  * You demonstrate high involvement in the Open Source community (nit picking about typos, changing code to comma-first back and forth, sending pull requests with your local config, opening IE6 issues, etc)
  * When you commit, it's not just a message
+ * You have a green thumb for all kinds of branches
  * There are new challenges and responsibilities everyday!
 
 
