@@ -27,6 +27,7 @@ You're the perfect fit for an open position at a really interesting company at t
 > + We are the leading international leader
 > + Our culture is fun, open and creative (we are fucking young and fresh and easy and laid-back and cool and awesome – but not hip!)
 > + Our goal is to provide the best web and mobile user experience possible, in a fast-paced iterative manner. 
+> + Our company name contains fancy french accents
 > + We work in a scalable cloud production environment
 > + We are based in Berlin
 > + We are funded by Ashton Kutcher's Mum
