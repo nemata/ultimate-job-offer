@@ -4,6 +4,7 @@ apologies for the unsolicited message but I stumbled upon your very interesting 
 You're the perfect fit for an open position at a really interesting company at the armpit of the world.
 
 #### Requirements & Responsibilities
+ * You finish projects before anybody knows what needs to be done
  * You will design and develop awesome magic software solutions
  * You will write code that all your peers will admire, onehandedly with lightning-speed 
  * You are expected to wear nerdy t-shirts, kill 1l of Club Mate per day, and prefer White Russian
